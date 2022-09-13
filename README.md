@@ -1,6 +1,6 @@
 # First Week Project 
 
-The project aims to do a simple project 
+The project aims to do a Kanbas table to organize the tasks. 
 
 
 ### Organization 📋
