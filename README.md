@@ -6,7 +6,7 @@ The project aims to do a Kanbas table to organize the tasks.
 ### Organization 📋
 -  joeldiazcc, lcastienc & ksama22 -> Do the project.
 
-- Roger Sobrino, Juanma Sánchez, Pere Guitart & Oriol Roca -> Put a 10 to the project.
+- Roger Sobrino, Juanma Sánchez, Pere Guitart & Oriol Roca -> Put a 10 to the project. (project review)
 
 
 ## Authors✒️
