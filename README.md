@@ -7,7 +7,7 @@ The project aims to do a Kanbas table to organize the tasks.
 
 -  joeldiazcc, lcastienc & ksama22 -> Do the [Kanban](https://github.com/users/lcastienc/projects/1).
 
-- Roger Sobrino, Juanma Sánchez, Pere Guitart & Oriol Roca -> Put a 10 to the project. (project review)
+- Roger Sobrino, Juanma Sánchez, Pere Guitart & Oriol Roca -> Put a 10. (project review)
 
 
 ## Authors✒️
