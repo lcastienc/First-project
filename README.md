@@ -11,6 +11,6 @@ The project aims to do a Kanbas table to organize the tasks.
 
 -   Joel Felipe Díaz Carissimi - [joeldiazcc](https://github.com/joeldiazcc)
 
--   Luis Andres Castillo Ensinas - [lcastien](https://github.com/lcastien)
+-   Luis Andres Castillo Ensinas - [lcastienc](https://github.com/lcastienc)
 
 -   Kevin Sama Villegas - [ksama22](https://github.com/ksama22)
